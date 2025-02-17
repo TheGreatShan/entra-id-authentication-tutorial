@@ -1,0 +1,6 @@
+@entra_id_auth_tutorial_HostAddress = http://localhost:5211
+
+GET {{entra_id_auth_tutorial_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
