@@ -1,3 +1,5 @@
+namespace entra_id_auth_tutorial;
+
 class Program
 {
     public static void Main(string[] args)
